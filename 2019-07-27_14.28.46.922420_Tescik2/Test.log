@@ -1,0 +1,17 @@
+2019-07-27 14:28:27,873:__main__ : DEBUG : Initializing rocket bench object
+2019-07-27 14:28:27,876:__main__ : DEBUG : Servo() component initialized
+2019-07-27 14:28:27,878:__main__ : DEBUG : TestFailures() component initialized
+2019-07-27 14:28:28,104:__main__ : DEBUG : AnalogToDigitalConverter() component initialized
+2019-07-27 14:28:30,894:__main__ : INFO : Started listening
+2019-07-27 14:28:30,895:__main__ : INFO : Got signal to launch
+2019-07-27 14:28:30,896:__main__ : DEBUG : Starting procedure of launch()
+2019-07-27 14:28:30,896:__main__ : INFO : TEST START
+2019-07-27 14:28:30,897:__main__ : INFO : IGNITION
+2019-07-27 14:28:31,904:Servo : INFO : Electro valve has been opened
+2019-07-27 14:28:31,905:__main__ : INFO : ELECTROVALVE HAS BEEN OPENED
+2019-07-27 14:28:46,917:__main__ : INFO : END OF TEST
+2019-07-27 14:28:46,918:__main__ : DEBUG : Starting procedure of print_statictics()
+2019-07-27 14:28:46,919:__main__ : INFO : Thrust max = 26447 N
+2019-07-27 14:28:46,921:__main__ : INFO : Pressure max = 7093 bar
+2019-07-27 14:28:46,921:__main__ : DEBUG : Starting procedure of save_results()
+2019-07-27 14:28:51,913:__main__ : DEBUG : Starting procedure of update_repository()
