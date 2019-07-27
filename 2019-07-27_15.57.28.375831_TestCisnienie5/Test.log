@@ -1,0 +1,23 @@
+2019-07-27 15:57:16,451:__main__ : DEBUG : Initializing rocket bench object
+2019-07-27 15:57:16,453:__main__ : DEBUG : Servo() component initialized
+2019-07-27 15:57:16,454:__main__ : DEBUG : TestFailures() component initialized
+2019-07-27 15:57:16,681:__main__ : DEBUG : AnalogToDigitalConverter() component initialized
+2019-07-27 15:57:19,701:__main__ : INFO : Started listening
+2019-07-27 15:57:19,702:__main__ : INFO : Got signal to launch
+2019-07-27 15:57:19,702:__main__ : DEBUG : Starting procedure of launch()
+2019-07-27 15:57:19,703:__main__ : INFO : TEST START
+2019-07-27 15:57:19,704:__main__ : INFO : IGNITION
+2019-07-27 15:57:20,711:Servo : INFO : Electro valve has been opened
+2019-07-27 15:57:20,711:__main__ : INFO : ELECTROVALVE HAS BEEN OPENED
+2019-07-27 15:57:23,369:TestFailures : WARNING : Pressure is above critical value!
+2019-07-27 15:57:23,370:TestFailures : INFO : Pressure value: 19925.0
+2019-07-27 15:57:23,371:__main__ : WARNING : Found anomaly during test!
+2019-07-27 15:57:23,372:__main__ : WARNING : Emergency closing electrovalve.
+2019-07-27 15:57:23,372:Servo : INFO : Electro valve has been closed
+2019-07-27 15:57:23,373:__main__ : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-07-27 15:57:28,374:__main__ : INFO : END OF TEST
+2019-07-27 15:57:28,375:__main__ : DEBUG : Starting procedure of save_results()
+2019-07-27 15:57:32,684:__main__ : DEBUG : Starting procedure of print_statictics()
+2019-07-27 15:57:32,687:__main__ : INFO : Thrust max = 7.9256590000000005 N
+2019-07-27 15:57:32,689:__main__ : INFO : Pressure max = 39.843652558748474 bar
+2019-07-27 15:57:32,690:__main__ : DEBUG : Starting procedure of update_repository()
