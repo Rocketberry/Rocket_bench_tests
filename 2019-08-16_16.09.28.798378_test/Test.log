@@ -1,0 +1,24 @@
+2019-08-16 16:09:18,529:__main__ : DEBUG : Initializing rocket bench object
+2019-08-16 16:09:18,539:__main__ : DEBUG : Servo() component initialized
+2019-08-16 16:09:18,547:__main__ : DEBUG : TestFailures() component initialized
+2019-08-16 16:09:18,831:__main__ : DEBUG : AnalogToDigitalConverter() component initialized
+2019-08-16 16:09:20,708:__main__ : INFO : Started listening
+2019-08-16 16:09:21,715:__main__ : INFO : Got signal to launch
+2019-08-16 16:09:21,720:__main__ : DEBUG : Starting procedure of launch()
+2019-08-16 16:09:21,722:__main__ : INFO : TEST START
+2019-08-16 16:09:21,728:__main__ : INFO : IGNITION
+2019-08-16 16:09:22,726:Modules.Servo : INFO : Electro valve has been opened
+2019-08-16 16:09:22,728:__main__ : INFO : ELECTROVALVE HAS BEEN OPENED
+2019-08-16 16:09:23,755:Modules.TestFailures : WARNING : Pressure in chamber is too high!
+2019-08-16 16:09:23,764:Modules.TestFailures : INFO : Pressure in chamber value: 9.178542794536343 bar
+2019-08-16 16:09:23,766:Modules.TestFailures : INFO : Pressure in tank value: 12.908837046056547 bar
+2019-08-16 16:09:23,768:__main__ : WARNING : Found anomaly during test!
+2019-08-16 16:09:23,773:__main__ : WARNING : Emergency closing electrovalve.
+2019-08-16 16:09:23,777:Modules.Servo : INFO : Electro valve has been closed
+2019-08-16 16:09:23,780:__main__ : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-08-16 16:09:28,786:__main__ : INFO : END OF TEST
+2019-08-16 16:09:28,795:__main__ : DEBUG : Starting procedure of save_results()
+2019-08-16 16:09:44,551:__main__ : DEBUG : Starting procedure of print_statictics()
+2019-08-16 16:09:44,560:__main__ : INFO : Thrust max = 15.963659 N
+2019-08-16 16:09:44,568:__main__ : INFO : Pressure max = 20.632649987788156 bar
+2019-08-16 16:09:44,578:__main__ : DEBUG : Starting procedure of update_repository()
