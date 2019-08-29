@@ -1,0 +1,28 @@
+2019-08-29 20:03:31,767:__main__ : DEBUG : Initializing rocket bench object
+2019-08-29 20:03:31,818:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:03:31,869:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:03:31,869:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:03:31,870:__main__ : DEBUG : Servo() component initialized
+2019-08-29 20:03:31,872:__main__ : DEBUG : TestFailures() component initialized
+2019-08-29 20:03:32,100:__main__ : DEBUG : AnalogToDigitalConverter() component initialized
+2019-08-29 20:03:33,740:__main__ : INFO : Started listening
+2019-08-29 20:03:33,742:__main__ : INFO : Got signal to launch
+2019-08-29 20:03:33,742:__main__ : DEBUG : Starting procedure of launch()
+2019-08-29 20:03:33,743:__main__ : INFO : TEST START
+2019-08-29 20:03:33,744:__main__ : INFO : SUPPRESSION ELECTROVALVE HAS BEEN OPENED
+2019-08-29 20:03:33,828:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:03:33,828:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:03:33,829:__main__ : INFO : IGNITION
+2019-08-29 20:03:35,578:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:03:35,578:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:03:35,579:__main__ : INFO : N2O ELECTROVALVE HAS BEEN OPENED
+2019-08-29 20:03:40,648:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:03:40,648:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:03:40,649:__main__ : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-08-29 20:03:45,659:__main__ : INFO : END OF TEST
+2019-08-29 20:03:45,660:__main__ : DEBUG : Starting procedure of save_results()
+2019-08-29 20:03:50,436:__main__ : DEBUG : Starting procedure of print_statictics()
+2019-08-29 20:03:50,439:__main__ : INFO : Thrust max = 6.631208 N
+2019-08-29 20:03:50,442:__main__ : INFO : Pressure max = 11.477803783687218 bar
+2019-08-29 20:03:50,443:__main__ : INFO : Pressure in N2O tank = 13.007250146524973 bar
+2019-08-29 20:03:50,444:__main__ : DEBUG : Starting procedure of update_repository()
