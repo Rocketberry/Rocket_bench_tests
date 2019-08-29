@@ -1,0 +1,27 @@
+2019-08-29 20:36:45,739:__main__ : DEBUG : Initializing rocket bench object
+2019-08-29 20:36:45,788:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:36:45,838:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:36:45,838:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:36:45,839:__main__ : DEBUG : Servo() component initialized
+2019-08-29 20:36:45,841:__main__ : DEBUG : TestFailures() component initialized
+2019-08-29 20:36:46,069:__main__ : DEBUG : AnalogToDigitalConverter() component initialized
+2019-08-29 20:36:58,461:__main__ : INFO : Started listening
+2019-08-29 20:37:52,346:__main__ : INFO : Got signal to launch
+2019-08-29 20:37:52,347:__main__ : DEBUG : Starting procedure of launch()
+2019-08-29 20:37:52,348:__main__ : INFO : TEST START
+2019-08-29 20:37:52,348:__main__ : INFO : SUPPRESSION ELECTROVALVE HAS BEEN OPENED
+2019-08-29 20:37:52,431:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:37:52,431:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:37:52,433:__main__ : INFO : IGNITION
+2019-08-29 20:37:54,190:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:37:54,190:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 20:37:54,191:__main__ : INFO : N2O ELECTROVALVE HAS BEEN OPENED
+2019-08-29 20:37:59,274:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:37:59,274:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 20:37:59,276:__main__ : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-08-29 20:38:04,287:__main__ : INFO : END OF TEST
+2019-08-29 20:38:04,293:__main__ : DEBUG : Starting procedure of save_results()
+2019-08-29 20:38:08,707:__main__ : DEBUG : Starting procedure of print_statictics()
+2019-08-29 20:38:08,710:__main__ : INFO : Thrust max = -0.048792 N
+2019-08-29 20:38:08,712:__main__ : INFO : Pressure max = -0.036715367334909224 bar
+2019-08-29 20:38:08,713:__main__ : DEBUG : Starting procedure of update_repository()
