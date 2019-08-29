@@ -1,0 +1,26 @@
+2019-08-29 19:33:42,746:__main__ : DEBUG : Initializing rocket bench object
+2019-08-29 19:33:42,797:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 19:33:42,847:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 19:33:42,847:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 19:33:42,848:__main__ : DEBUG : Servo() component initialized
+2019-08-29 19:33:42,850:__main__ : DEBUG : TestFailures() component initialized
+2019-08-29 19:33:43,079:__main__ : DEBUG : AnalogToDigitalConverter() component initialized
+2019-08-29 19:33:48,732:__main__ : INFO : Started listening
+2019-08-29 19:33:48,733:__main__ : INFO : Got signal to launch
+2019-08-29 19:33:48,734:__main__ : DEBUG : Starting procedure of launch()
+2019-08-29 19:33:48,734:__main__ : INFO : TEST START
+2019-08-29 19:33:48,735:__main__ : INFO : SUPPRESSION ELECTROVALVE HAS BEEN OPENED
+2019-08-29 19:33:48,822:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 19:33:48,822:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 19:33:48,823:__main__ : INFO : IGNITION
+2019-08-29 19:33:50,571:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 19:33:50,571:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-08-29 19:33:50,573:__main__ : INFO : N2O ELECTROVALVE HAS BEEN OPENED
+2019-08-29 19:33:55,657:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 19:33:55,657:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-08-29 19:33:55,681:__main__ : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-08-29 19:34:00,682:__main__ : INFO : END OF TEST
+2019-08-29 19:34:00,684:__main__ : DEBUG : Starting procedure of save_results()
+2019-08-29 19:34:05,453:__main__ : DEBUG : Starting procedure of print_statictics()
+2019-08-29 19:34:05,456:__main__ : INFO : Thrust max = 6.631208 N
+2019-08-29 19:34:05,458:__main__ : INFO : Pressure max = 11.40530943436284 bar
