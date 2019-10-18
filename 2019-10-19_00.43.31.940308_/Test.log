@@ -1,0 +1,25 @@
+2019-10-19 00:43:15,396:main : DEBUG : Initializing rocket bench object
+2019-10-19 00:43:15,463:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-10-19 00:43:15,467:main : DEBUG : Servo() component initialized
+2019-10-19 00:43:15,468:main : DEBUG : TestFailures() component initialized
+2019-10-19 00:43:15,683:main : DEBUG : AnalogToDigitalConverter() component initialized
+2019-10-19 00:43:20,591:main : INFO : Started listening
+2019-10-19 00:43:20,593:main : INFO : Check_failures is commented
+2019-10-19 00:43:22,096:main : INFO : Got signal to launch
+2019-10-19 00:43:22,098:main : DEBUG : Starting procedure of launch()
+2019-10-19 00:43:22,098:main : INFO : TEST START
+2019-10-19 00:43:22,099:main : INFO : SUPPRESSION ELECTROVALVE HAS BEEN OPENED
+2019-10-19 00:43:22,101:Modules.Servo : INFO : Electro valve has been opened
+2019-10-19 00:43:22,101:main : INFO : IGNITION
+2019-10-19 00:43:23,702:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-10-19 00:43:23,704:main : INFO : N2O ELECTROVALVE HAS BEEN OPENED
+2019-10-19 00:43:28,806:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-10-19 00:43:28,808:Modules.Servo : INFO : Electro valve has been closed
+2019-10-19 00:43:28,808:main : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-10-19 00:43:31,817:main : INFO : END OF TEST
+2019-10-19 00:43:31,819:main : DEBUG : Starting procedure of save_results()
+2019-10-19 00:43:36,074:main : DEBUG : Starting procedure of print_statictics()
+2019-10-19 00:43:36,078:main : INFO : Thrust max = 3.2982512382497626 N
+2019-10-19 00:43:36,081:main : INFO : Pressure max = 0.026271650135365934 bar
+2019-10-19 00:43:36,085:main : INFO : Pressure in N2O tank = -0.026226266361955304 bar
+2019-10-19 00:43:36,086:main : DEBUG : Starting procedure of update_repository()
