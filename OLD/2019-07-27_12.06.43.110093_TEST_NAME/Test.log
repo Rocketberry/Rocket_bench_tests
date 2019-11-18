@@ -1,9 +1,0 @@
-2019-07-27 12:06:27,085:__main__ : INFO : Started listening
-2019-07-27 12:06:27,086:__main__ : INFO : Got signal to launch
-2019-07-27 12:06:27,086:__main__ : INFO : TEST START
-2019-07-27 12:06:27,087:__main__ : INFO : IGNITE
-2019-07-27 12:06:28,092:__main__ : INFO : ELECTROVALVE HAS BEEN OPENED
-2019-07-27 12:06:38,099:__main__ : INFO : ELECTROVALVE HAS BEEN CLOSED
-2019-07-27 12:06:43,101:__main__ : INFO : END OF TEST
-2019-07-27 12:06:43,107:__main__ : INFO : Thrust max = 3604 N
-2019-07-27 12:06:43,109:__main__ : INFO : Pressure max = 6118 bar
