@@ -1,0 +1,23 @@
+2019-11-28 18:47:10,249:main : DEBUG : Initializing rocket bench object
+2019-11-28 18:47:10,378:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-11-28 18:47:10,381:main : DEBUG : Servo() component initialized
+2019-11-28 18:47:10,383:main : DEBUG : TestFailures() component initialized
+2019-11-28 18:47:10,597:main : DEBUG : AnalogToDigitalConverter() component initialized
+2019-11-28 18:47:10,598:main : INFO : Started listening
+2019-11-28 18:48:34,358:main : INFO : Got signal to launch
+2019-11-28 18:48:34,359:main : DEBUG : Starting procedure of launch()
+2019-11-28 18:48:34,361:main : INFO : TEST START
+2019-11-28 18:48:34,362:main : INFO : SUPPRESSION ELECTROVALVE HAS BEEN OPENED
+2019-11-28 18:48:34,364:Modules.Servo : INFO : Electro valve has been opened
+2019-11-28 18:48:34,365:main : INFO : IGNITION
+2019-11-28 18:48:35,957:Modules.Servo_hardware : INFO : Electro valve has been opened
+2019-11-28 18:48:35,959:main : INFO : N2O ELECTROVALVE HAS BEEN OPENED
+2019-11-28 18:48:38,833:Modules.TestFailures : WARNING : Pressure is below minimal value!
+2019-11-28 18:48:38,835:Modules.TestFailures : INFO : Pressure value: 3.9043432745524984 bar
+2019-11-28 18:48:38,835:main : WARNING : Found anomaly during test!
+2019-11-28 18:48:38,836:main : WARNING : Emergency closing electrovalve.
+2019-11-28 18:48:38,940:Modules.Servo_hardware : INFO : Electro valve has been closed
+2019-11-28 18:48:38,941:main : INFO : ELECTROVALVE HAS BEEN CLOSED
+2019-11-28 18:48:41,946:main : INFO : END OF TEST
+2019-11-28 18:48:41,947:main : DEBUG : Starting procedure of save_results()
+2019-11-28 18:48:45,719:main : DEBUG : Starting procedure of update_repository()
