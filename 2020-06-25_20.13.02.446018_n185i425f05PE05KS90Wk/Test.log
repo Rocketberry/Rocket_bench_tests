@@ -1,0 +1,22 @@
+2020-06-25 20:11:47,605:main : DEBUG : Initializing rocket bench object
+2020-06-25 20:11:47,725:Modules.Servo_hardware : INFO : Electro valve has been closed
+2020-06-25 20:11:47,728:main : DEBUG : Servo() component initialized
+2020-06-25 20:11:47,730:main : DEBUG : TestFailures() component initialized
+2020-06-25 20:11:47,944:main : DEBUG : AnalogToDigitalConverter() component initialized
+2020-06-25 20:11:47,945:main : INFO : Started listening
+2020-06-25 20:12:46,164:main : INFO : Got signal to launch
+2020-06-25 20:12:46,165:main : DEBUG : Starting procedure of launch()
+2020-06-25 20:12:46,166:main : INFO : TEST START
+2020-06-25 20:12:46,167:main : INFO : Servo power ON
+2020-06-25 20:12:46,168:main : INFO : SUPPRESSION ELECTROVALVE HAS BEEN OPENED
+2020-06-25 20:12:46,169:Modules.Servo : INFO : Electro valve has been opened
+2020-06-25 20:12:46,170:main : INFO : IGNITION
+2020-06-25 20:12:48,266:Modules.Servo_hardware : INFO : Electro valve has been opened
+2020-06-25 20:12:48,268:main : INFO : N2O ELECTROVALVE HAS BEEN OPENED
+2020-06-25 20:12:52,271:Modules.Servo_hardware : INFO : Electro valve has been closed
+2020-06-25 20:12:52,273:Modules.Servo : INFO : Electro valve has been closed
+2020-06-25 20:12:52,273:main : INFO : N20 ELECTROVALVE HAS BEEN CLOSED
+2020-06-25 20:13:02,286:main : INFO : Servo power OFF
+2020-06-25 20:13:02,287:main : INFO : END OF TEST
+2020-06-25 20:13:02,289:main : DEBUG : Starting procedure of save_results()
+2020-06-25 20:13:06,509:main : DEBUG : Starting procedure of update_repository()
