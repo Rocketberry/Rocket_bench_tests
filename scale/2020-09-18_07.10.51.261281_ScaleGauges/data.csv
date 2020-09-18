@@ -1,0 +1,3 @@
+Device;mode;mean;stdev;rms;maxOdchOdSredniej
+Thrust;Zero;460.904;7.420834454426268;460.9637361007913;18.096000000000004
+Thrust;Burdened;32767.0;0.0;32767.0;0.0
