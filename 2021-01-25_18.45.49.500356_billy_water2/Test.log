@@ -20,3 +20,9 @@
 2021-01-25 18:45:49,219:main : INFO : END OF TEST
 2021-01-25 18:45:49,220:main : DEBUG : Starting procedure of save_results()
 2021-01-25 18:45:53,437:main : DEBUG : Starting procedure of update_repository()
+2021-01-25 18:46:07,673:main : DEBUG : Starting procedure of print_statictics()
+2021-01-25 18:46:07,675:main : INFO : Total test time: 25s
+2021-01-25 18:46:07,675:main : INFO : N2O flow time: 5s
+2021-01-25 18:46:07,685:main : INFO : Maximum thrust: 11.161056655293805N
+2021-01-25 18:46:07,694:main : INFO : Maximum pressure: 7.284268867080676bar
+2021-01-25 18:46:07,699:main : INFO : Pressure left in N2O tank: 4.996815204583894bar
